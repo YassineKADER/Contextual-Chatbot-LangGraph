@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+.venv/
+.env
+env
+# LangGraph
+chroma_db/
+graph.png
+# Data
+data/*.zip
+data/*.csv
+# IDE specific
+.idea
+.vscode
+
+#Other
+*.swp
